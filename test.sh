@@ -1,7 +1,5 @@
 #!/bin/bash
 python - <<EOF
-import pysocks
-import parso
 import matplotlib
 import pillow
 import tornado
