@@ -8,7 +8,6 @@ import prometheus_client
 import tensorflow
 import keras
 import pydm
-import pyqt
 import pandas
 import bokeh
 import epics
